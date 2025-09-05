@@ -58,21 +58,5 @@ Analyze Acme Co.’s 2014–2018 USA sales data to uncover revenue and profit dr
 5. **Dashboard Prep:** Aggregate tables for Power BI.
 
 ---
-
-## 🖼️ Dashboard Preview
-
-### Regional Sales Overview
-
-![Dashboard Page 1](Regional%20Sales%20Summary/Dashboard%20Backround/Page%201.png)
-
-### Product Performance
-
-![Dashboard Page 2](Regional%20Sales%20Summary/Dashboard%20Backround/Page%202.png)
-
-### Channel Mix & Trends
-
-![Dashboard Page 3](Regional%20Sales%20Summary/Dashboard%20Backround/Page%203.png)
-
----
-
 > *See the full notebook and exported CSV data for deeper analysis.*
+
