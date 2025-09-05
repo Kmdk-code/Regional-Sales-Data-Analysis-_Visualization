@@ -57,6 +57,11 @@ Analyze Acme Co.’s 2014–2018 USA sales data to uncover revenue and profit dr
 4. **Seasonal Planning:** Target January trough and May–June peak.
 5. **Dashboard Prep:** Aggregate tables for Power BI.
 
+📬 Contact
+For questions or collaboration, feel free to connect!
+👤 Kamdek Kapnang
+📧 agungkk10@gmail.com
+🌐 LinkedIn | GitHub
 ---
 > *See the full notebook and exported CSV data for deeper analysis.*
 
